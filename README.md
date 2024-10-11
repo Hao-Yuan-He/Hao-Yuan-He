@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hao-Yuan-He, a first-year Ph.D. student at Nanjing University. Especially, I am a member of LAMDA which is led by Zhi-Hua Zhou.
+- 👋 Hi, I’m Hao-Yuan He, a first-year Ph.D. student at Nanjing University. Especially, I am a member of LAMDA which is led by Zhi-Hua Zhou.
 - 👀 I’m interested in Weakly Supervised Learning and Neuro-Symbolic Learning.
 - 💞️ I’m looking to collaborate on Abductive Learning (ABL) with Large Language Models (LLMs).
 
